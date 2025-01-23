@@ -1,7 +1,7 @@
-# Travel Management System
+# Flight Management System
 
 ## Overview
-The Travel Management System is a software solution designed to manage trips, clients, and bookings for a fictional travel agency. Developed using object-oriented programming principles, it allows for the efficient management of trips, client reservations, and additional services like excursions and packages.
+The flight Management System is a software solution designed to manage trips, clients, and bookings for a fictional travel agency. Developed using object-oriented programming principles, it allows for the efficient management of trips, client reservations, and additional services like excursions and packages.
 
 ## Features
 - **View Available Trips**: Display all available trips with detailed information.
