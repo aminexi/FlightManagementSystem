@@ -23,7 +23,3 @@ The system is based on several core entities such as:
 - **Language**: C++
 - **Programming Paradigm**: Object-Oriented Programming (OOP)
 - **Principles**: Inheritance, Polymorphism, Encapsulation
-
-## Installation
-To run the project locally, follow these steps:
-1. Clone this repository:
